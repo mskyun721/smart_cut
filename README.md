@@ -34,7 +34,7 @@
 `2-TIER`
 
   <p align="left">
-    <img src="/uploads/49403a059cc3d0c8b82197f9c41cad1f/architecture.png" width="700" />
+    <img src="https://user-images.githubusercontent.com/39721559/211957748-6207b6c6-7441-4017-b2c1-e703cd851059.png" width="700" />
   </p>
 
 ## UI/UX
@@ -42,11 +42,11 @@
 https://www.figma.com/file/xI1FL8C4iymrSNvYi1LuMG/Smart-Cut?node-id=0%3A8239&t=oONe8M7kks2O6PRG-1
  
   <p align="left">
-   <img src="/uploads/ce819c9e59bc48d1538ab9f682861e38/logo.JPG" width="200" />
+   <img src="https://user-images.githubusercontent.com/39721559/211957937-8584506f-1fb2-449f-b8ee-301f87dd56c6.JPG" width="200" />
   </p>
  
   <p align="left">
-   <img src="/uploads/2bcc577a99351aa7e89bcb07c3325c8c/serviceexp.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211957932-e8086c7c-f6a6-4bba-bd50-f16191fd4459.JPG" width="700" />
   </p>
 
   <p align="left">
@@ -90,7 +90,7 @@ https://www.figma.com/file/xI1FL8C4iymrSNvYi1LuMG/Smart-Cut?node-id=0%3A8239&t=o
 ## DataBase
   * ERD
    
-   <img src="/uploads/89a713009d9ed8996b585c1902f21f7a/ERD.jpg" width="1000" />
+   <img src="https://user-images.githubusercontent.com/39721559/211957768-eaf470cc-3c12-4d85-813f-b4afb4bd2e5f.jpg" width="1000" />
    
    
 ## 모델 사용절차
