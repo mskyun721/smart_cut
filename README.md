@@ -27,7 +27,7 @@
   * 회원가입
   * 샵 / 디자이너 페이지
   * 예약 / 채팅 서비스
-  <img src="/uploads/ec6befe5d2f02ac95f58d33d69baec12/serviceflow.png" width="700" />
+  <img src="https://user-images.githubusercontent.com/39721559/211957574-b801a748-1277-4107-b077-ab6f9c5bdc10.png" width="700" />
 
 ## Model Architecture
 
