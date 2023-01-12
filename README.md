@@ -50,39 +50,39 @@ https://www.figma.com/file/xI1FL8C4iymrSNvYi1LuMG/Smart-Cut?node-id=0%3A8239&t=o
   </p>
 
   <p align="left">
-   <img src="/uploads/c6f5db1bd68b4f5e9ad69344c5393b87/login_page.JPG" width="450" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958085-19a9cc0a-49a3-4f45-8bdf-b75970d193cb.JPG" width="450" />
   </p>
 
   <p align="left">
-   <img src="/uploads/168afe8d2296d89ac19ac03985eee8e3/join_page.JPG" width="450" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958096-e802fad2-521c-4118-8187-0895baa46613.JPG" width="450" />
   </p>
 
   <p align="left">
-   <img src="/uploads/82977ad835cb4879bf1253bb2b8a7eb8/mail.jpg" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958112-0ff33d92-29b9-4935-8d1f-1c4e9de30f27.jpg" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/911cd420ccce39eafaa42aef4d526a98/changepw.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958128-72218fac-15c0-49f6-a3e3-50018a60baae.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/0b7dc830e75ddcb6edf2f5a101edd384/salondetail.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958145-7e816995-95de-465f-994d-aee5bf1bd851.JPG" width="700" />
   </p>  
 
   <p align="left">
-   <img src="/uploads/fd5042acc091721dd10642c1ffbc66d2/Review.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958155-02378074-a9b9-4e70-8356-06555ea588d8.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/e89ae4717fa44534e8b82717e5c74706/chatroom.JPG" width="450" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958172-21bcb280-f68a-43c9-9d6d-13a653e8b85e.JPG" width="450" />
   </p>
 
   <p align="left">
-   <img src="/uploads/220e05960dc04c56a87a2565d8c399cc/reservation.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958181-f3a4ad2d-1dde-49fc-aa10-2f87a81ef46f.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/f01b232a136de6320adb6899c9057d60/profile.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958186-df3288c0-118a-4a77-a097-2cb100339eb1.JPG" width="700" />
   </p>
 
   
@@ -97,37 +97,37 @@ https://www.figma.com/file/xI1FL8C4iymrSNvYi1LuMG/Smart-Cut?node-id=0%3A8239&t=o
  * 남성 사용자 화면  
 
   <p align="left">
-   <img src="/uploads/623868e4c43bfc2cc8cb62d37fbe0e4d/mainman.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958565-1c209c4f-5a76-4d1c-b223-d58268c7608a.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/d4b86e825ac9156fabc8d75c564d9d08/AIman.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958593-08cc32c4-73f1-45b7-b392-72bcd0dfcc03.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/02323c70272b107e6e705e97bd6bf981/resultman.JPG" width="950" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958572-81e4ba2d-39cc-4786-bebe-e2b5ae40b075.JPG" width="950" />
   </p>
 
   <p align="left">
-   <img src="/uploads/d8ecfa036bd6bc26c91e4ce8301a8ef5/resultmain.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958570-43c93212-bb87-4ab4-a120-f489e181f059.JPG" width="700" />
   </p>
 
 * 여성 사용자 화면
 
   <p align="left">
-   <img src="/uploads/6a82d3a2a50635a17023de5303d479d8/mainwoman.JPG" width="450" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958767-d3a1d368-e8bc-4778-9572-f4d6d46b7823.JPG" width="450" />
   </p>
 
   <p align="left">
-   <img src="/uploads/4dafa36633d10ea3397355dea429a547/aiwoman.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958779-806ded29-211e-41d9-ae1a-64d2c2ad4720.JPG" width="700" />
   </p>
 
   <p align="left">
-   <img src="/uploads/7110bf7ef4de68d9c26920253f085dbd/resultwoman.JPG" width="950" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958773-04f64038-f62a-40f5-ab64-f8086921e41a.JPG" width="950" />
   </p>
 
   <p align="left">
-   <img src="/uploads/220f511bf6692b5b893a51372cefd623/resultmain.JPG" width="700" />
+   <img src="https://user-images.githubusercontent.com/39721559/211958770-ebfdc835-0f3f-4eb2-a9af-0379b6240345.JPG" width="700" />
   </p>
 
   
