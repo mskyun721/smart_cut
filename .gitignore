@@ -1,0 +1,9 @@
+.env
+/migrations/__pycache__
+__pycache__/
+*.pyc
+'.venv' 
+poetry.lock
+pyproject.toml
+secrets.json
+*.h5
